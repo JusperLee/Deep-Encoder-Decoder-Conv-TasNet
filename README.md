@@ -38,5 +38,8 @@ Decoder:
 
 You can replace the Conv_TasNet.py file in the [Conv-TasNet](https://github.com/JusperLee/Conv-TasNet) repository for training.
 
+## Result
+Conv-Tasnet(Deep w / dilation): SI-SNRi：16.346,  SDRi：16.61
+
 ## Reference
 [1]. Kadioglu B, Horgan M, Liu X, et al. An empirical study of Conv-TasNet[J]. arXiv preprint arXiv:2002.08688, 2020.
